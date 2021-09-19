@@ -1,7 +1,7 @@
 ---
 title: Manfei Li
 layout: template
-filename: home
+filename: index
 --- 
 
 This is the home page
