@@ -4,4 +4,4 @@ layout: template
 filename: index
 --- 
 
-This is a test 27
+This is the home page
