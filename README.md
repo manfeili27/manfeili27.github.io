@@ -1,1 +1,1 @@
-This is a test
+This is the repository for the webpage of Manfei Li.
