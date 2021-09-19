@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-title: [Manfei Li]
-description: [Test]
+title: Manfei Li
+description: Test
 
-show_downloads: ["true"]
+show_downloads: "true"
