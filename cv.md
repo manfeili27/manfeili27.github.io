@@ -4,4 +4,4 @@ layout: template
 filename: cv
 --- 
 
-This is the CV page
+You can ownload my CV [here](download/cv_manfei_li.pdf 'Cv_manfei_li.pdf')
