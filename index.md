@@ -8,5 +8,5 @@ filename: index
 
 My research interests are consumer preferences and demographic trends.
 
-I will be on the job market in 2021/22. Here you can see my [CV](download/cv_manfei_li.pdf 'cv_manfei_li.pdf') and my [job market paper](download/jmp_manfei_li.pdf 'jmp_manfei_li.pdf').
+I am on the job market for the 2021-22 academic year. Here you can see my [CV](download/cv_manfei_li.pdf 'cv_manfei_li.pdf') and my [job market paper](download/jmp_manfei_li.pdf 'jmp_manfei_li.pdf').
 
