@@ -4,7 +4,7 @@ layout: template
 filename: index
 --- 
 
-I am a PhD candidate in the Department of Economics at Ludwig-Maximilians-Universität München (LMU Munich).
+<img title="Potrait Manfei Li" alt="Potrait Manfei Li" align="left" src="img/portrait_manfei_li.jpg" style="height: 210px; width:140px; float:left; padding-right:10px; padding-bottom:10px;">I am a PhD candidate in the Department of Economics at Ludwig-Maximilians-Universität München (LMU Munich).
 
 My research interests are consumer preferences and demographic trends.
 
