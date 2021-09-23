@@ -4,7 +4,7 @@ layout: template
 filename: index
 --- 
 
-<img title="Potrait Manfei Li" alt="Potrait Manfei Li" align="left" src="img/portrait_manfei_li.jpg" style="height: 150px; width:100px; float:left; padding-right:10px; padding-bottom:10px;">I am a PhD candidate in the Department of Economics at Ludwig-Maximilians-Universität München (LMU Munich). I received a Master of Science in economics from the London School of Economics in 2017. 
+<img title="Potrait Manfei Li" alt="Potrait Manfei Li" align="left" src="img/portrait_manfei_li.jpg" style="height: 165px; width:110px; float:left; padding-right:10px; padding-bottom:10px;">I am a PhD candidate in the Department of Economics at Ludwig-Maximilians-Universität München (LMU Munich). I received a Master of Science in economics from the London School of Economics in 2017. 
 
 My research interests are consumer preferences and demographic trends.
 
