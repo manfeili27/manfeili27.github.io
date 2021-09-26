@@ -14,8 +14,8 @@ filename: teaching
 - Measurement of Preferences (WS2019/20)
 
 # Supervised Theses
-- Master theses
+- Master Theses
   - Student 1: Title 1 (SS2021)
-- Bachelor theses
+- Bachelor Theses
   - Student 1: Titel 1 (WS2019/20 SS2020)
   - Student 2: Titel 2 (WS2019/20 SS2020)
