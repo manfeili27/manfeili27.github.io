@@ -27,20 +27,17 @@ $hr-border-color: #eff0f1 !default;*/
 
 @import "{{ site.theme }}";
 
-h1 {
+.main-content h1 {
   font-size: 25px;
 }
 
-h2 {
-  font-size: 20px;
-}
-
 .main-content h2 {
+  font-size: 20px;
   margin-top: 1rem;
   margin-bottom: 0.7rem;
 }
 
-p {
+.main-content p {
   text-align: justify;
   font-size: 15px;
 }
