@@ -4,6 +4,11 @@ layout: template
 filename: cv
 --- 
 
-You can ownload my CV [here](download/cv_manfei_li.pdf 'cv_manfei_li.pdf').
+You can download my CV [here](download/cv_manfei_li.pdf 'cv_manfei_li.pdf').
 
-<embed src="download/cv_manfei_li.pdf" width="800px" height="2100px" type="application/pdf" />
+<object data="download/cv_manfei_li.pdf" width="100%" max-height="100%" type="application/pdf">
+    <embed src="download/cv_manfei_li.pdf">
+        <p>This browser does not support PDFs. Instead, please download the PDF above to view it.</p>
+    </embed>
+</object>
+
