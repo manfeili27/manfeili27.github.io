@@ -15,7 +15,9 @@ filename: teaching
 
 # Supervised Theses
 - Master Theses
-  - Student 1: Title 1 (SS2021)
+  - Economic Growth in China since the 1950s: A Growth Development Comparison Between China, Hong Kong and Taiwan (WS2019/20)
 - Bachelor Theses
-  - Student 1: Titel 1 (WS2019/20 SS2020)
-  - Student 2: Titel 2 (WS2019/20 SS2020)
+  - The Effects of the One-Child Policy over the Elderly Suicide Rate in China (WS2020/21)
+  - Stability of Individual Preferences (SS2020)
+  - Life Cycle Patterns and Individual Preferences (SS2020)
+  - Determinants of Individual Preferences: The Role of Life Experiences and Institutions (WS2019/20)
