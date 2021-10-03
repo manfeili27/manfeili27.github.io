@@ -8,7 +8,6 @@ Please find my current CV below, or you can also download it [here directly](dow
 
 <object data="download/cv_manfei_li.pdf" width="100%" height="700px" type="application/pdf">
     <embed src="download/cv_manfei_li.pdf">
-        <p>This browser does not support PDFs. Instead, please download the PDF above to view it.</p>
-    </embed>
+        <p>This browser does not support PDF previews. Instead, please download the PDF above to view it.</p>
 </object>
 
