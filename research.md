@@ -11,9 +11,13 @@ filename: research
 
 Millenials have attracted attention in marketing research because they spend a higher share of their expenses on luxury goods than any preceding generation. It remains unclear, however, to which extent this is explained by their young age. In this paper I study the influence of age and generation effects on luxury expenditure. Using panel data on consumption behavior from the US, I separately identify age and generation effects on luxury expenditure using a variety of different approaches. First, I estimate panel regression models including a full set of age and generation dummies plus a long list of other demographic characteristics. Next, I leverage tools from supervised machine learning, which allow for flexibly non-linear and interactive relationships between the variables. All approaches consistently show that, conditional on age and other demographics, Millenials spend less on luxury goods than the preceding generations, both in absolute terms and as a share of total expenditure. The high luxury expenditure share of Millenials observed in the cross section can be fully attributed to their young age. These results challenge the conventional view of Millenials as a spoiled generation indulging in luxury. 
 
+
+
 ## Restrictive Fertility Policy and Elderly Suicides: Evidence from China (with Uwe Sunde, LMU Munic)
 
 This paper presents an empirical investigation of the hypothesis that exposure to the restrictive fertility policies of the Chinese "Later, Longer, Fewer" campaign in the 1970s contributes to the dynamics and patterns of elderly suicides in China in the period 2004 -- 2017. We apply an identification strategy that exploits variation in exposure to this policy across birth cohorts, time and space that is based on the quasi-random timing of the implementation of the fertility policies across Chinese provinces. The results show that cohorts with a greater exposure to the restrictive fertility policy in the 1970s exhibit higher suicide rates during old ages.
+
+
 
 ## Consumer Revolution, Intercontinental Trade, and Economic Growth (with Uwe Sunde, LMU Munich)
 
