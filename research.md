@@ -14,13 +14,13 @@ Millenials have attracted attention in marketing research because they spend a h
 
 
 # Working Papers
-## Restrictive Fertility Policy and Elderly Suicides: Evidence from China (with Uwe Sunde, LMU Munic)
+## Restrictive Fertility Policy and Elderly Suicides: Evidence from China (with Uwe Sunde)
 
 This paper presents an empirical investigation of the hypothesis that exposure to the restrictive fertility policies of the Chinese "Later, Longer, Fewer" campaign in the 1970s contributes to the dynamics and patterns of elderly suicides in China in the period 2004 -- 2017. We apply an identification strategy that exploits variation in exposure to this policy across birth cohorts, time and space that is based on the quasi-random timing of the implementation of the fertility policies across Chinese provinces. The results show that cohorts with a greater exposure to the restrictive fertility policy in the 1970s exhibit higher suicide rates during old ages.
 
 
 
 # Work in Progress
-## Consumer Revolution, Intercontinental Trade, and Economic Growth (with Uwe Sunde, LMU Munich)
+## Consumer Revolution, Intercontinental Trade, and Economic Growth (with Uwe Sunde)
 
 This paper develops a theoretical framework to explain consumer revolution in early modern Europe and the subsequent economic growth from the demand side of the economy.
