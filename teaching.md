@@ -4,16 +4,16 @@ layout: template
 filename: teaching
 --- 
 
-# Tutorials
+## Tutorials
 - Macroeconomics 2 (WS2021/22, SS2021, WS2020/21, SS2020)
 
-# Seminars
+## Seminars
 - Economics of Demographic Change (SS2021)
 - Human Capital and Development (SS2021, SS2020)
 - Economics of Religion (WS2020/21, SS2019)
 - Measurement of Preferences (WS2019/20)
 
-# Supervised Theses
+## Supervised Theses
 - Master Theses
   - Economic Growth in China since the 1950s: A Growth Development Comparison Between China, Hong Kong and Taiwan (WS2019/20)
 - Bachelor Theses
